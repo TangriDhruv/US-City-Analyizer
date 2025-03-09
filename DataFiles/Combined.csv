@@ -1,0 +1,64 @@
+State,Cost of Living Value,Cost of Living Score,Crime Cost Value,Crime Cost Score,Air Quality Value,City,Air Quality Score
+CA,141.7,1.0,1361.0,7,90,Santa Rosa,10
+CA,138.3,1.0,1824.0,5,117,Salinas,9
+CO,118.7,1.0,1601.0,6,123,Boulder,6
+CA,112.3,1.0,1795.0,6,33,Modesto,2
+AK,110.7,1.0,3264.0,3,64,Anchorage,3
+CA,110.5,1.0,1158.0,7,43,Chico,5
+CO,109.2,2.0,810.0,8,85,Fort Collins,1
+OR,108.4,2.0,1043.0,8,47,Eugene,1
+NV,107.4,2.0,1582.0,6,73,Reno,5
+MA,106.5,2.0,2450.0,4,146,Springfield,6
+CO,106.1,2.0,2008.0,5,103,Greeley,3
+CA,105.9,2.0,2780.0,3,96,Fresno,1
+UT,105.9,2.0,2783.0,3,115,Salt Lake City,1
+CA,102.9,3.0,2160.0,5,68,Bakersfield,0
+CO,102.2,3.0,2388.0,4,128,Colorado Springs,6
+FL,101.1,3.0,536.0,10,84,Port St. Lucie,8
+NC,99.7,3.0,1987.0,5,154,Raleigh,6
+WI,99.5,3.0,879.0,8,67,Madison,4
+MI,99.3,3.0,696.0,9,112,Ann Arbor,4
+VA,99.2,3.0,3788.0,2,152,Richmond,4
+FL,99.0,3.0,2838.0,3,48,Jacksonville,1
+NC,99.0,4.0,2200.0,4,98,Wilmington,6
+UT,98.0,4.0,712.0,9,143,St. George,3
+AZ,97.7,4.0,2779.0,3,88,Tucson,0
+GA,97.3,4.0,4037.0,2,133,Savannah,4
+FL,97.3,4.0,2473.0,4,80,Gainesville,7
+MN,97.3,4.0,614.0,9,73,Rochester,6
+MT,95.7,4.0,3008.0,3,83,Billings,8
+NY,95.1,5.0,2856.0,3,168,Syracuse,8
+NE,94.7,5.0,1288.0,7,31,Lincoln,5
+TX,93.3,5.0,2942.0,3,50,Corpus Christi,1
+PA,93.1,5.0,4418.0,1,90,Pittsburgh,1
+NM,92.9,5.0,4916.0,1,55,Albuquerque,1
+SD,92.8,5.0,1439.0,6,82,Sioux Falls,7
+TX,92.8,5.0,2247.0,4,113,Tyler,8
+TX,92.7,5.0,1827.0,5,98,Odessa,6
+CO,92.2,5.0,5979.0,1,136,Pueblo,7
+TN,91.6,6.0,3521.0,2,106,Knoxville,0
+WI,91.4,6.0,1495.0,6,70,Green Bay,5
+NC,91.2,6.0,3365.0,2,95,Winston-Salem,2
+LA,91.1,6.0,5388.0,1,77,Baton Rouge,0
+AL,91.0,6.0,2530.0,4,103,Tuscaloosa,7
+TX,90.1,7.0,1105.0,7,62,Laredo,1
+MO,89.8,7.0,1981.0,5,33,Columbia,8
+LA,89.6,7.0,3106.0,3,100,Lafayette,1
+TX,89.5,7.0,2421.0,4,78,Waco,2
+NC,89.5,7.0,3635.0,2,83,Fayetteville,3
+OH,89.4,7.0,3985.0,2,102,Akron,2
+NM,88.8,8.0,2406.0,4,51,Las Cruces,1
+TX,88.8,8.0,3057.0,3,117,Lubbock,9
+TX,88.6,8.0,983.0,8,39,El Paso,0
+OH,88.4,8.0,5146.0,1,105,Dayton,1
+AL,88.3,8.0,3647.0,2,78,Mobile,3
+TX,88.2,8.0,2811.0,3,117,Amarillo,5
+IA,88.1,8.0,1534.0,6,146,Cedar Rapids,3
+OH,87.5,9.0,4652.0,1,88,Toledo,0
+OK,87.3,9.0,2328.0,4,75,Oklahoma City,0
+IL,87.2,9.0,3628.0,2,133,Rockford,4
+IN,86.8,9.0,1447.0,6,116,Fort Wayne,2
+KS,86.8,9.0,2586.0,4,73,Wichita,6
+OK,86.7,9.0,3405.0,2,73,Tulsa,0
+IL,86.7,9.0,4649.0,1,115,Peoria,4
+KS,85.6,10.0,2910.0,3,79,Topeka,7
